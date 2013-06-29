@@ -4,6 +4,10 @@
   "name": "console.image everywhere",
   "description": "Adds console.image to every page (see https://github.com/dunxrion/console.image).",
   "version": "1.0",
+  "icons": {
+    "48": "icon-48.png",
+    "128": "icon-128.png" 
+  },
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
