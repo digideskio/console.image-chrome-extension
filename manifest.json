@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "console.image everywhere",
+  "description": "Adds console.image to every page (see https://github.com/dunxrion/console.image).",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "run_at": "document_start",
+      "js": ["embed.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    "console.image/console-min.js"
+  ]
+}
