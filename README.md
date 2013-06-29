@@ -3,6 +3,8 @@
 
 A very simple Chrome extension to take @dunxrion's glorious [console.image](https://github.com/dunxrion/console.image) and inject it into every single page
 
+Want it in your Chrome? Install it from the web store: https://chrome.google.com/webstore/detail/onmiijbokejkiadcplidhkcmocffepjm
+
 #Thanks
 
 Thanks to @dunxrion for the original script (he didn't include a specific license, so contact me if this is a problem and I'll take it down)
