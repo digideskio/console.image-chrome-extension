@@ -7,13 +7,16 @@ Want it in your Chrome? Install it from the web store: https://chrome.google.com
 
 #Thanks
 
-Thanks to @dunxrion for the original script (he didn't include a specific license, so contact me if this is a problem and I'll take it down)
+Thanks to @dunxrion for the original script.  He did all the hard work - he deserves the praise!
 
 Kudos to [egeozcan](https://news.ycombinator.com/item?id=5962384) on Hacker News for the inspiration.
 
 
 # License
-Standard [2-clause BSD](http://opensource.org/licenses/BSD-2-Clause).
+
+The original console.image is used here under the terms of the [WTFPL](http://www.wtfpl.net/).
+
+This extension is released under the standard [2-clause BSD](http://opensource.org/licenses/BSD-2-Clause).
 
 > Copyright (c) 2013, Jeffrey Stanton
 > All rights reserved.
